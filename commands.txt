@@ -1,0 +1,6 @@
+git Commands:
+
+git add <filename>
+git commit -m "commit message here | AuthorName"
+git pull -r #to pull remote project changes to local machine
+git push
